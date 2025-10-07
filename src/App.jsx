@@ -38,7 +38,7 @@ export default function App() {
             : "bg-black/30 text-white"
           }`}
       >
-        <h1 className="text-2xl font-bold"><a href="#hero">My Portfolio</a></h1>
+        <h1 className="text-2xl font-bold"><a href="#hero">Mehedi Hassan Niloy</a></h1>
 
         {/* Desktop Menu */}
         <ul className="hidden md:flex gap-6">
@@ -627,7 +627,7 @@ export default function App() {
                 href="https://wa.me/qr/45ZQY4FELGYDH1"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="px-6 py-3 bg-green-500 rounded-lg shadow-lg hover:bg-green-600 flex items-center gap-2"
+                className="px-6 py-3 bg-blue-500 rounded-lg shadow-lg hover:bg-blue-600 flex items-center gap-2"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
